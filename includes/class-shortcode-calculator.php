@@ -25,32 +25,32 @@ class pstuShortcodeCalculator extends pstuTypeEducationalProgram {
 	function __construct() {
 		$this->criteria = array(
 			'form_study'					=> array(
-				'label'								=> __( 'Форма обучения', 'pstu-enrollee' ),
+				'label'								=> __( 'Форма навчання', 'pstu-enrollee' ),
 				'multiple'						=> false,
 				'operator'						=> 'AND',
 			),
 			'okr'									=> array(
-				'label'								=> __( 'ОКУ', 'pstu-enrollee' ),
+				'label'								=> __( 'ОКР', 'pstu-enrollee' ),
 				'multiple'						=> false,
 				'operator'						=> 'AND',
 			),
 			'competitive_offers'	=> array(
-				'label'								=> __( 'Конкурсные предложения', 'pstu-enrollee' ),
+				'label'								=> __( 'Конкурсні пропозиції', 'pstu-enrollee' ),
 				'multiple'						=> false,
 				'operator'						=> 'AND',
 			),
 			'test'								=> array(
-				'label'								=> __( 'Условия поступления', 'pstu-enrollee' ),
+				'label'								=> __( 'Умови вступу', 'pstu-enrollee' ),
 				'multiple'						=> true,
 				'operator'						=> 'AND',
 			),
 			'financing'						=> array(
-				'label'								=> __( 'Источник финансирования', 'pstu-enrollee' ),
+				'label'								=> __( 'Джерело фінансування', 'pstu-enrollee' ),
 				'multiple'						=> true,
 				'operator'						=> 'AND',
 			),
 			'based_education'			=> array(
-				'label'								=> __( 'Поступление на основе...', 'pstu-enrollee' ),
+				'label'								=> __( 'Вступ на базі', 'pstu-enrollee' ),
 				'multiple'						=> true,
 				'operator'						=> 'AND',
 			),

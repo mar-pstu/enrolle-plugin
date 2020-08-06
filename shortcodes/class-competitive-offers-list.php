@@ -49,12 +49,12 @@ class pstuCompetitiveOffersList {
 	public function get_properties( $post_id ) {
 		$result = array();
 		foreach ( array(
-			'edbo_name'                         => __( 'Название в ЕГЭБО', 'pstu-enrollee' ),
-			'type_of_offer'                     => __( 'Вид предложения', 'pstu-enrollee' ),
-			'based_education'                   => __( 'Предыдущее образование', 'pstu-enrollee' ),
-			'form_study'                        => __( 'Форма обучения', 'pstu-enrollee' ),
-			'training_term'                     => __( 'Срок обучения', 'pstu-enrollee' ),
-			'components_of_competitive_points'  => __( 'Компоненты и их вес', 'pstu-enrollee' ),
+			'edbo_name'                         => __( 'Назва в ЭДЕБО', 'pstu-enrollee' ),
+			'type_of_offer'                     => __( 'Вид пропозиції', 'pstu-enrollee' ),
+			'based_education'                   => __( 'Попередня освіта', 'pstu-enrollee' ),
+			'form_study'                        => __( 'Форма навчання', 'pstu-enrollee' ),
+			'training_term'                     => __( 'Термін навчання', 'pstu-enrollee' ),
+			'components_of_competitive_points'  => __( 'Компоненти та їх вага', 'pstu-enrollee' ),
 		) as $key => $label ) {
 			switch ( $key ) {
 				case 'edbo_name':
