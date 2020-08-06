@@ -1,0 +1,98 @@
+.components-of-competitive-points-table {
+	width: 100%;
+}
+.components-of-competitive-points-table th {
+	text-align: center;
+	border-bottom: 1px solid #eee;
+}
+.components-of-competitive-points-table tr td:nth-of-type(1) {
+	text-align: center;
+	font-weight: bold;
+	vertical-align: top;
+	width: 10%;
+	border-bottom: 1px solid #eee;
+}
+.components-of-competitive-points-table tr td:nth-of-type(2) {
+	text-align: center;
+	vertical-align: top;
+	width: 10%;
+	border-bottom: 1px solid #eee;
+}
+.components-of-competitive-points-table tr td:nth-of-type(3) {
+	border-bottom: 1px solid #eee;
+}
+.components-of-competitive-points-table tr td:nth-of-type(4) {
+	border: none;
+	vertical-align: top;
+	width: 10%
+}
+
+.components-of-competitive-points-table tr td:nth-of-type(4) a {
+	text-decoration: none;
+}
+
+.components-of-competitive-points-table input {
+	width: 100%;
+	text-align: center;
+}
+
+.components-of-competitive-points-table ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	display: inline;
+}
+
+.components-of-competitive-points-table ul li {
+	display: inline;
+}
+
+.components-of-competitive-points-table ul li:after {
+	content: ', ';
+}
+
+.components-of-competitive-points-table ul li:last-child:after {
+	display: none;
+}
+
+.components-of-competitive-points-table a.remove-row {
+	color: #a00;
+}
+
+.components-of-competitive-points-table a.remove-row:hover {
+	color: #dc3232;
+}
+
+.components-of-competitive-points-table .sr-only {
+	display: none;
+}
+
+.edit-row-wrap {
+	display: none;
+	padding: 25px;
+}
+
+.edit-row-wrap .components-item {
+	display: inline-block;
+	margin: 0px 5px;
+}
+
+#complete-line-editg-button,
+#pstu_components_of_competitive_points .button {
+	margin-top: 15px;
+}
+
+#complete-line-editg-button .dashicons,
+#pstu_components_of_competitive_points .button .dashicons {
+	vertical-align: middle;
+}
+
+#components-list {
+	max-width: 640px;
+}
+
+#components-list .test-item {
+	display: inline-block;
+	margin: 3px;
+	padding: 3px;
+}

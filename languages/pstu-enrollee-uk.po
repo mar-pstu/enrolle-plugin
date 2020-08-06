@@ -1,0 +1,651 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-08-06 10:05+0300\n"
+"PO-Revision-Date: 2020-08-06 10:07+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/abstract-taxonomy.php:76 includes/abstract-taxonomy.php:108
+#: taxonomy/class-based-education.php:92 taxonomy/class-form-study.php:100
+#: taxonomy/class-specialties.php:253 taxonomy/class-type-of-offer.php:91
+msgid "Термины не найдены"
+msgstr "Терміни не знайдені"
+
+#: includes/class-field-taxonomy.php:266
+msgid "Добавить"
+msgstr "Додати"
+
+#: includes/class-field-taxonomy.php:267
+msgid "Удалить"
+msgstr "Видалити"
+
+#: includes/class-field-taxonomy.php:325 includes/trait-pstu-enrollee.php:138
+msgid "Не выбрано"
+msgstr "Не обрано"
+
+#: includes/class-shortcode-calculator-old.php:28
+#: includes/class-shortcode-calculator.php:28
+#: shortcodes/class-competitive-offers-list.php:55
+#: taxonomy/class-form-study.php:42 taxonomy/class-form-study.php:43
+msgid "Форма обучения"
+msgstr "Форма навчання"
+
+#: includes/class-shortcode-calculator-old.php:33
+#: includes/class-shortcode-calculator.php:33 taxonomy/class-okr.php:45
+#: taxonomy/class-okr.php:46 taxonomy/class-okr.php:56
+#: taxonomy/class-okr.php:129
+msgid "ОКУ"
+msgstr "ОКР"
+
+#: includes/class-shortcode-calculator-old.php:38
+#: includes/class-shortcode-calculator.php:38
+#: types/class-competitive-offers.php:196
+#: types/class-competitive-offers.php:207
+msgid "Конкурсные предложения"
+msgstr "Конкурсні пропозиції"
+
+#: includes/class-shortcode-calculator-old.php:43
+#: includes/class-shortcode-calculator.php:43
+msgid "Условия поступления"
+msgstr "Умови вступу"
+
+#: includes/class-shortcode-calculator-old.php:48
+#: includes/class-shortcode-calculator.php:48
+msgid "Источник финансирования"
+msgstr "Джерело фінансування"
+
+#: includes/class-shortcode-calculator-old.php:53
+#: includes/class-shortcode-calculator.php:53
+msgid "Поступление на основе..."
+msgstr "Надходження на основі ..."
+
+#: includes/class-shortcode-calculator-old.php:161
+#: includes/class-shortcode-calculator.php:161
+msgid "Выполнить"
+msgstr "Виконати"
+
+#: includes/trait-pstu-enrollee.php:185
+msgid " или "
+msgstr " або "
+
+#: shortcodes/class-competitive-offers-list.php:38
+msgid "Вывод всех конкурсных предложений на странице образовательной программы"
+msgstr "Висновок всіх конкурсних пропозицій на сторінці освітньої програми"
+
+#: shortcodes/class-competitive-offers-list.php:52
+msgid "Название в ЕГЭБО"
+msgstr "Назва в ЄДЕБО"
+
+#: shortcodes/class-competitive-offers-list.php:53
+#: taxonomy/class-type-of-offer.php:34 taxonomy/class-type-of-offer.php:35
+#: taxonomy/class-type-of-offer.php:45
+msgid "Вид предложения"
+msgstr "Вид пропозиції"
+
+#: shortcodes/class-competitive-offers-list.php:54
+#: taxonomy/class-based-education.php:35 taxonomy/class-based-education.php:36
+#: taxonomy/class-based-education.php:46
+msgid "Предыдущее образование"
+msgstr "Попередня освіта"
+
+#: shortcodes/class-competitive-offers-list.php:56
+#: shortcodes/class-enrollee-filter.php:510
+#: types/class-competitive-offers.php:276
+msgid "Срок обучения"
+msgstr "Термін навчання"
+
+#: shortcodes/class-competitive-offers-list.php:57
+msgid "Компоненты и их вес"
+msgstr "Компоненти та їх вага"
+
+#: shortcodes/class-competitive-offers-list.php:82
+#, php-format
+msgid "<li>%1$s: <b>%2$s %3$s</b></li>"
+msgstr "<li>%1$s: <b>%2$s %3$s</b></li>"
+
+#: shortcodes/class-competitive-offers-list.php:84
+#: shortcodes/class-enrollee-filter.php:482
+msgid "год"
+msgstr "рік"
+
+#: shortcodes/class-competitive-offers-list.php:84
+#: shortcodes/class-enrollee-filter.php:482
+msgid "года"
+msgstr "роки"
+
+#: shortcodes/class-competitive-offers-list.php:84
+#: shortcodes/class-enrollee-filter.php:482
+msgid "лет"
+msgstr "років"
+
+#: shortcodes/class-competitive-offers-list.php:85
+#: shortcodes/class-enrollee-filter.php:483
+msgid "месяц"
+msgstr "місяць"
+
+#: shortcodes/class-competitive-offers-list.php:85
+#: shortcodes/class-enrollee-filter.php:483
+msgid "месяца"
+msgstr "місяці"
+
+#: shortcodes/class-competitive-offers-list.php:85
+#: shortcodes/class-enrollee-filter.php:483
+msgid "месяцев"
+msgstr "місяців"
+
+#: shortcodes/class-competitive-offers-list.php:146
+msgid "Редактировать"
+msgstr "Редагувати"
+
+#: shortcodes/class-enrollee-filter.php:47
+msgid "Выберите ОКУ"
+msgstr "Оберіть ОКР"
+
+#: shortcodes/class-enrollee-filter.php:48
+msgid ""
+"ОКУ (образовательно-квалификационный уровень) - это характеристика высшего "
+"образования. В Украине существует 5 уровней высшего образования, это младший "
+"бакалавр, бакалавр, магистр, доктор философии / доктор искусства и доктор "
+"наук. Выберите ОКУ который Вы хотите получить в нашем университете."
+msgstr ""
+"ОКР (освітньо-кваліфікаційний рівень) - це характеристика вищої освіти. В "
+"Україні існує 5 рівнів вищої освіти, це молодший бакалавр, бакалавр, "
+"магістр, доктор філософії / доктор мистецтва і доктор наук. Виберіть ОКР "
+"який Ви хочете отримати в нашому університеті."
+
+#: shortcodes/class-enrollee-filter.php:55
+msgid "Области знаний"
+msgstr "Галузі знань"
+
+#: shortcodes/class-enrollee-filter.php:56
+msgid ""
+"Группа родственных специальностей, по которым осуществляется "
+"профессиональная подготовка. Так, специальность, которую вы ищете, имеет "
+"трёхзначний шифр, первые две цифры составляют отрасль знаний. Выбирая только "
+"нужную область знаний, Вы сужаете круг поиска."
+msgstr ""
+"Група споріднених спеціальностей, за якими здійснюється професійна "
+"підготовка. Так, спеціальність, що ви шукаєте, має тризначний шифр, перші "
+"дві цифри становлять галузь знань. Вибираючи тільки потрібну область знань, "
+"Ви звужуєте коло пошуку."
+
+#: shortcodes/class-enrollee-filter.php:63
+msgid "Выберите форму обучения"
+msgstr "Виберіть форму навчання"
+
+#: shortcodes/class-enrollee-filter.php:64
+msgid ""
+"Обучение студентов в университете осуществляется по указанным формам, "
+"выберите нужную."
+msgstr ""
+"Навчання студентів в університеті здійснюється за вказаними формами, "
+"виберіть потрібну."
+
+#: shortcodes/class-enrollee-filter.php:71
+msgid "Базовое образование"
+msgstr "Попередня освіта"
+
+#: shortcodes/class-enrollee-filter.php:72
+msgid ""
+"Уровень предыдущего образования, на основе которого Вы поступаете в "
+"университет."
+msgstr ""
+"Рівень попереднього освіти, на основі якого Ви вступаєте в університет."
+
+#: shortcodes/class-enrollee-filter.php:79
+msgid "Вид конкурсного предложения"
+msgstr "Вид конкурсної пропозиції"
+
+#: shortcodes/class-enrollee-filter.php:80
+msgid ""
+"Конкурсное предложение может быть фиксированным - то есть финансирование "
+"осуществляется за средства государственного бюджета или за счет физических "
+"или юридических лиц, а может быть небюджетной - финансируется только за "
+"средства физических или юридических лиц."
+msgstr ""
+"Конкурсна пропозиція може бути фіксованою - тобто фінансування здійснюється "
+"за кошти державного бюджету або за рахунок фізичних/юридичних осіб, а може "
+"бути небюджетної - фінансується тільки за кошти фізичних або юридичних осіб."
+
+#: shortcodes/class-enrollee-filter.php:87
+#: shortcodes/class-enrollee-filter.php:511
+#: taxonomy/class-components-of-competitive-points.php:117
+#: taxonomy/class-components-of-competitive-points.php:118
+#: taxonomy/class-components-of-competitive-points.php:128
+#: taxonomy/class-components-of-competitive-points.php:296
+#: taxonomy/class-components-of-competitive-points.php:304
+msgid "Компоненты"
+msgstr "Компоненти"
+
+#: shortcodes/class-enrollee-filter.php:88
+#, fuzzy
+#| msgid ""
+#| "Компоненты - составные части конкурсного балла согласно правил приема. Из "
+#| "каких компонентов расчитывается конкурсный балл Вы можете посмотреть на "
+#| "странице образовательной программы/специальности, это могут быть: "
+#| "сертификаты ВНО, экзамены и тому подобное."
+msgid ""
+"Компоненты - составные части конкурсного балла согласно правилам приёма. Из "
+"каких компонентов рассчитывается конкурсный балл Вы можете посмотреть на "
+"странице образовательной программы/специальности, это могут быть сертификаты "
+"ВНО, экзамены и тому подобное."
+msgstr ""
+"Компоненти - складові частини конкурсного бала відповідно до правил прийому. "
+"З яких компонентів розраховується конкурсний бал Ви можете подивитися на "
+"сторінці освітньої програми/спеціальності, це можуть бути: сертифікати ЗНО, "
+"екзамени тощо."
+
+#: shortcodes/class-enrollee-filter.php:148
+msgid "Фильтр абитуриента"
+msgstr "Фільтр абітурієнта"
+
+#: shortcodes/class-enrollee-filter.php:171
+#: shortcodes/class-enrollee-filter.php:270
+msgid "Найти"
+msgstr "Знайти"
+
+#: shortcodes/class-enrollee-filter.php:172
+msgid "Поиск..."
+msgstr "Пошук..."
+
+#: shortcodes/class-enrollee-filter.php:288
+msgid "Выбрать всё"
+msgstr "Обрати все"
+
+#: shortcodes/class-enrollee-filter.php:501
+msgid "Ничего не найдено."
+msgstr "Нічого не знайдено."
+
+#: shortcodes/class-enrollee-filter.php:502
+msgid "Выберите компоненты конкурсного предложения"
+msgstr "Оберіть компоненти конкурсної пропозиції"
+
+#: shortcodes/class-enrollee-filter.php:502
+msgid "Попробуйте другие параметры."
+msgstr "Спробуйте обрати інші параметри."
+
+#: shortcodes/class-enrollee-filter.php:507
+msgid "№ п/п"
+msgstr "№ з/п"
+
+#: shortcodes/class-enrollee-filter.php:508
+#: types/class-competitive-offers.php:273
+#: types/class-educational-program.php:127
+msgid "Образовательная программа"
+msgstr "Освітня програма"
+
+#: shortcodes/class-enrollee-filter.php:509
+msgid "Описание"
+msgstr "Опис"
+
+#: shortcodes/class-enrollee-filter.php:513
+msgid "Найдено"
+msgstr "Знайдено"
+
+#: shortcodes/class-enrollee-filter.php:514
+msgid "конкурсное предложение"
+msgstr "конкурсна пропозиція"
+
+#: shortcodes/class-enrollee-filter.php:514
+msgid "конкурсных предложения"
+msgstr "конкурсних пропозицій"
+
+#: shortcodes/class-enrollee-filter.php:514
+msgid "конкурсных предложений"
+msgstr "конкурсних пропозицій"
+
+#: shortcodes/class-knowledge-areas-simple-list.php:33
+msgid "Вывод простого списка областей знаний"
+msgstr "Публікація простого списку галузей знань"
+
+#: shortcodes/class-okr-list.php:54
+msgid "Подробней"
+msgstr "Докладніше"
+
+#: shortcodes/class-okr-list.php:63 types/class-competitive-offers.php:158
+msgid "Образовательные программы не найдены"
+msgstr "Освітні програми не знайдені"
+
+#: shortcodes/class-okr-list.php:70 shortcodes/class-specialties.php:112
+msgid "Шорткод"
+msgstr "Шорткод"
+
+#: taxonomy/class-based-education.php:37
+#: taxonomy/class-components-of-competitive-points.php:119
+#: taxonomy/class-form-study.php:44 taxonomy/class-okr.php:47
+#: taxonomy/class-specialization-tag.php:39 taxonomy/class-specialties.php:45
+#: taxonomy/class-type-of-offer.php:36
+msgid "Найти запись"
+msgstr "Знайти запис"
+
+#: taxonomy/class-based-education.php:38
+#: taxonomy/class-components-of-competitive-points.php:120
+#: taxonomy/class-form-study.php:45 taxonomy/class-okr.php:48
+#: taxonomy/class-specialization-tag.php:40 taxonomy/class-specialties.php:46
+#: taxonomy/class-type-of-offer.php:37
+msgid "Все записи"
+msgstr "Всі записи"
+
+#: taxonomy/class-based-education.php:39
+#: taxonomy/class-components-of-competitive-points.php:121
+#: taxonomy/class-okr.php:49 taxonomy/class-specialization-tag.php:41
+#: taxonomy/class-specialties.php:47 taxonomy/class-type-of-offer.php:38
+msgid "Просмотр списка записей"
+msgstr "Перегляд списку записів"
+
+#: taxonomy/class-based-education.php:40
+#: taxonomy/class-components-of-competitive-points.php:122
+#: taxonomy/class-form-study.php:47 taxonomy/class-okr.php:50
+#: taxonomy/class-specialization-tag.php:42 taxonomy/class-specialties.php:48
+#: taxonomy/class-type-of-offer.php:39
+msgid "Родительская запись"
+msgstr "Батьківська запис"
+
+#: taxonomy/class-based-education.php:41
+#: taxonomy/class-components-of-competitive-points.php:123
+#: taxonomy/class-form-study.php:48 taxonomy/class-okr.php:51
+#: taxonomy/class-specialization-tag.php:43 taxonomy/class-specialties.php:49
+#: taxonomy/class-type-of-offer.php:40
+msgid "Родительская запись:"
+msgstr "Батьківська запис:"
+
+#: taxonomy/class-based-education.php:42
+#: taxonomy/class-components-of-competitive-points.php:124
+#: taxonomy/class-form-study.php:49 taxonomy/class-okr.php:52
+#: taxonomy/class-specialization-tag.php:44 taxonomy/class-specialties.php:50
+#: taxonomy/class-type-of-offer.php:41 types/class-competitive-offers.php:200
+msgid "Редактировать запись"
+msgstr "Редагувати запис"
+
+#: taxonomy/class-based-education.php:43
+#: taxonomy/class-components-of-competitive-points.php:125
+#: taxonomy/class-form-study.php:50 taxonomy/class-okr.php:53
+#: taxonomy/class-specialization-tag.php:45 taxonomy/class-specialties.php:51
+#: taxonomy/class-type-of-offer.php:42
+msgid "Обновить запись"
+msgstr "Оновити запис"
+
+#: taxonomy/class-based-education.php:44
+#: taxonomy/class-components-of-competitive-points.php:126
+#: taxonomy/class-okr.php:54 taxonomy/class-specialization-tag.php:46
+#: taxonomy/class-type-of-offer.php:43 types/class-competitive-offers.php:198
+msgid "Добавить новую запись"
+msgstr "Додати новий запис"
+
+#: taxonomy/class-based-education.php:45
+#: taxonomy/class-components-of-competitive-points.php:127
+#: taxonomy/class-okr.php:55 taxonomy/class-specialization-tag.php:47
+#: taxonomy/class-type-of-offer.php:44
+msgid "Добавить запись"
+msgstr "Додати запис"
+
+#: taxonomy/class-based-education.php:111
+msgid "%1$s на базе %2$l"
+msgstr "%1$s на базі %2$l"
+
+#: taxonomy/class-components-of-competitive-points.php:54
+#: taxonomy/class-components-of-competitive-points.php:68
+msgid "Не использовать в выборке"
+msgstr "Не використовувати у фільтрах"
+
+#: taxonomy/class-components-of-competitive-points.php:96
+msgid "Компоненты и коэффициенты"
+msgstr "Компоненти і коефіцієнти"
+
+#: taxonomy/class-components-of-competitive-points.php:294
+msgid "№"
+msgstr "№"
+
+#: taxonomy/class-components-of-competitive-points.php:295
+#: taxonomy/class-components-of-competitive-points.php:302
+msgid "Коэффициент"
+msgstr "Коефіцієнт"
+
+#: taxonomy/class-components-of-competitive-points.php:301
+msgid ""
+"Для завершения редактирования нажмите кнопку \"Готово\" или закройте окно"
+msgstr ""
+"Для завершення редагування натисніть кнопку \"Готово\" або закрийте вікно"
+
+#: taxonomy/class-components-of-competitive-points.php:308
+msgid "Готово"
+msgstr "Готово"
+
+#: taxonomy/class-components-of-competitive-points.php:313
+msgid "Добавить строку"
+msgstr "Додати рядок"
+
+#: taxonomy/class-components-of-competitive-points.php:357
+msgid "Удалить строку"
+msgstr "Видалити рядок"
+
+#: taxonomy/class-components-of-competitive-points.php:358
+msgid "Редактировать строку"
+msgstr "Редагувати рядок"
+
+#: taxonomy/class-components-of-competitive-points.php:361
+msgid "Ошибка"
+msgstr "Помилка"
+
+#: taxonomy/class-components-of-competitive-points.php:362
+msgid "компоненты не выбраны"
+msgstr "компоненти не вибрані"
+
+#: taxonomy/class-components-of-competitive-points.php:364
+msgid "Компоненты не заполнены"
+msgstr "Компоненти не заповнені"
+
+#: taxonomy/class-form-study.php:46
+msgid "Просмотр списку записей"
+msgstr "Перегляд списку записів"
+
+#: taxonomy/class-form-study.php:51
+msgid "Добавить новую форму обучения"
+msgstr "Додати нову форму навчання"
+
+#: taxonomy/class-form-study.php:52
+msgid "Добавить форму обучения"
+msgstr "Додати форму навчання"
+
+#: taxonomy/class-form-study.php:53
+msgid "Формы обучения"
+msgstr "Форми навчання"
+
+#: taxonomy/class-specialization-tag.php:37
+#: taxonomy/class-specialization-tag.php:38
+#: taxonomy/class-specialization-tag.php:48
+msgid "Ключевые слова"
+msgstr "Ключові слова"
+
+#: taxonomy/class-specialties.php:43 taxonomy/class-specialties.php:184
+msgid "Области знаний / специальности"
+msgstr "Галузі знань / спеціальності"
+
+#: taxonomy/class-specialties.php:44 taxonomy/class-specialties.php:54
+msgid "Область знаний / специальность"
+msgstr "Галузь знань / спеціальність"
+
+#: taxonomy/class-specialties.php:52
+msgid "Добавить новое конкурсное предложение"
+msgstr "Додати нову конкурсну пропозицію"
+
+#: taxonomy/class-specialties.php:53
+msgid "Добавить конкурсное предложение"
+msgstr "Додати конкурсну пропозицію"
+
+#: taxonomy/class-specialties.php:56
+msgid "Двухуровневая таксономия: область знаний -> специальности."
+msgstr "Дворівнева таксономія: галузь знань -> спеціальності."
+
+#: taxonomy/class-specialties.php:79
+msgid "Страница с описанием"
+msgstr "Сторніка з описом"
+
+#: taxonomy/class-specialties.php:85
+msgid "Код"
+msgstr "Код"
+
+#: taxonomy/class-specialties.php:86
+msgid "Область знаний - код вида 0ХХ, специальность - XXX."
+msgstr "Галузь знань - код виду 0XX, спеціальність - XXX."
+
+#: taxonomy/class-specialties.php:96
+msgid "Логотип"
+msgstr "Логотип"
+
+#: types/class-competitive-offers.php:79
+msgid "Предупреждение:"
+msgstr "Попередження:"
+
+#: types/class-competitive-offers.php:80
+msgid ""
+"найдены конкурсные предложения, которые не прикреплены к образовальной "
+"программе: "
+msgstr ""
+"знайдені конкурсні пропозиції, що не прикріплені до образовальной програмі: "
+
+#: types/class-competitive-offers.php:169
+#: types/class-competitive-offers.php:287
+msgid "Курс"
+msgstr "Курс"
+
+#: types/class-competitive-offers.php:197
+msgid "Конкурсное предложение"
+msgstr "Конкурсна пропозиція"
+
+#: types/class-competitive-offers.php:199
+msgid "Новое Конкурсное предложение"
+msgstr "Нова Конкурсна пропозиція"
+
+#: types/class-competitive-offers.php:201
+msgid "Новое конкурсное предложение"
+msgstr "Нове конкурсна пропозиція"
+
+#: types/class-competitive-offers.php:202
+msgid "Все конкурсные предложения"
+msgstr "Всі конкурсні пропозиції"
+
+#: types/class-competitive-offers.php:203
+msgid "Просмотр записей на сайте"
+msgstr "Перегляд записів на сайті"
+
+#: types/class-competitive-offers.php:204
+#: types/class-educational-program.php:134
+msgid "Искать в списке"
+msgstr "Шукати в списку"
+
+#: types/class-competitive-offers.php:205
+#: types/class-educational-program.php:135
+msgid "Записи не найдены"
+msgstr "Записи не знайдені"
+
+#: types/class-competitive-offers.php:206
+msgid "В корзине нет записей"
+msgstr "У кошику немає записів"
+
+#: types/class-competitive-offers.php:234
+msgid "Опции конкурсного предложения"
+msgstr "Опції конкурсної пропозиції"
+
+#: types/class-competitive-offers.php:271
+msgid "Полное название (ЕГБО)"
+msgstr "Повна назва (ЄДБО)"
+
+#: types/class-competitive-offers.php:278
+msgid "годы"
+msgstr "роки"
+
+#: types/class-competitive-offers.php:282
+msgid "месяцы"
+msgstr "місяці"
+
+#: types/class-competitive-offers.php:434
+msgid "Образовательная программа не прикреплена"
+msgstr "Освітня програма не прикріплений"
+
+#: types/class-competitive-offers.php:446
+#, php-format
+msgid "%s курс "
+msgstr "%s курс "
+
+#: types/class-competitive-offers.php:449
+#, php-format
+msgid "Конкурсное предложение ID%1$s"
+msgstr "Конкурсна пропозиція ID%1$s"
+
+#: types/class-educational-program.php:47
+msgid "Особенности образовательной программы"
+msgstr "Особливості освітньої програми"
+
+#: types/class-educational-program.php:126
+#: types/class-educational-program.php:137
+#: types/class-educational-program.php:210
+msgid "Образовательные программы"
+msgstr "Освітні програми"
+
+#: types/class-educational-program.php:128
+msgid "Добавить новую ОП"
+msgstr "Додати нову ОП"
+
+#: types/class-educational-program.php:129
+msgid "Новая ОП"
+msgstr "Нова ОП"
+
+#: types/class-educational-program.php:130
+msgid "Редактировать образовательную программу"
+msgstr "Редагувати освітню програму"
+
+#: types/class-educational-program.php:131
+msgid "Новая образовательная программа"
+msgstr "Нова освітня програма"
+
+#: types/class-educational-program.php:132
+msgid "Все образовательные программы"
+msgstr "Всі освітні програми"
+
+#: types/class-educational-program.php:133
+msgid "Просмотр образовательных программ на сайте"
+msgstr "Перегляд освітніх програм на сайті"
+
+#: types/class-educational-program.php:136
+msgid "В корзине нет образовательных программ"
+msgstr "У кошику немає освітніх програм"
+
+#: types/class-educational-program.php:187
+#: types/class-educational-program.php:188
+msgid "Настройки"
+msgstr "Налаштування"
+
+#: types/class-educational-program.php:198
+msgid "Сохранить"
+msgstr "Зберегти"
+
+#: types/class-educational-program.php:213
+msgid "Выбор страницы для вывода списка специализаций"
+msgstr "Вибір сторінки для виведення списку спеціалізацій"
+
+#~ msgid "ОКР"
+#~ msgstr "ОКР"
+
+#~ msgid "Поступление на основе"
+#~ msgstr "Вступ на базі"
+
+#~ msgid "Название"
+#~ msgstr "Назва"
+
+#~ msgid "Компоненdты"
+#~ msgstr "Компоненти"
+
+#~ msgid "Не выбрана"
+#~ msgstr "Не обрано"

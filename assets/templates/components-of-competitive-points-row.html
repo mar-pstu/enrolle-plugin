@@ -1,0 +1,31 @@
+<tr>
+	<td>{{data.number}}</td>
+	<td>
+		<# if ( '' != data.coefficient ) { #>
+			{{data.coefficient}}
+		<# } else { #>
+			-
+		<# } #>
+	</td>
+	<td>
+		<# if ( data.components.length ) { #>
+			<ul>
+				<# data.components.forEach( function ( element ) { #>
+					<li>{{AdmissionConditionsComponents[ element ]}}</li>
+				<# } ); #>
+			</ul>
+		<# } else { #>
+			{{{AdmissionConditionsTranslates.error_empty_components}}}
+		<# } #>
+	</td>
+	<td>
+		<a href="#edit-row-wrap" class="edit-row" type="button" role="button" title="{{AdmissionConditionsTranslates.edit_row_button}}">
+			<span class="dashicons dashicons-edit"></span>
+			<span class="sr-only">{{AdmissionConditionsTranslates.edit_row_button}}</span>
+		</a>
+		<a href="javascript:;" class="deletion remove-row" type="button" role="button" title="{{AdmissionConditionsTranslates.remove_row_button}}">
+			<span class="dashicons dashicons-no-alt"></span>
+			<span class="sr-only">{{AdmissionConditionsTranslates.remove_row_button}}</span>
+		</a>
+	</td>
+</tr>
